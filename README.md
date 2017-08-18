@@ -1,5 +1,5 @@
 # GST
-Genomic selection Tools
+Genomic Selection Tools
 
 # Installation
 
