@@ -8,11 +8,8 @@ library(devtools)
 install_github("YaoZhou89/GST")
 
 # Running the tests
-source('../calcAIvar.R')
 
-source('../iGS.eps.R')
-
-source('../gBLUP.eps.R')
+library(GST)
 
 myY = read.table("phenotype.txt",head=T)
 
