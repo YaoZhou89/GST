@@ -1,5 +1,5 @@
 iGS.eps <- function(X=NULL,K=NULL,Y=NULL,Var=NULL,alg="ai"){
-  # Objects: prediction, may use multiple random effects
+  # Objects: prediction using AI-REML, may use multiple random effects
   # Design marix for random effects is identy matrix
   
   # Input: 

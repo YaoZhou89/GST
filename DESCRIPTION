@@ -6,7 +6,7 @@ Author: Yao Zhou
 Maintainer: Yao Zhou <yao_wsu.zhou@wsu.edu>
 Description: This package is developed for Genomic selection 
 License: GPL (>= 2)
-Depends: R (>= 3.1.0), bigmemory, biganalytics, MASS, Rcpp (>= 0.12.12),rrBLUP,BGLR
+Depends: R (>= 3.1.0), bigmemory, biganalytics, MASS, Rcpp (>= 0.12.12),rrBLUP,BGLR,Matrix
 Suggests: compiler
 Encoding: UTF-8
 LazyData: true
